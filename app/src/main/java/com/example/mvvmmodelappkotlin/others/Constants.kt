@@ -9,6 +9,6 @@ object Constants {
     const val RESPONSE_ERROR = 0
     const val RESPONSE_ACTION = -1
     const val MOVIES = "movies"
-    const val API_KEY = "4e0be2c22f7268edffde97481d49064a"
+    const val API_KEY = "API_KEY"
 
 }
